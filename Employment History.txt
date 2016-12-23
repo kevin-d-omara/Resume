@@ -16,13 +16,13 @@ Supervisor's Name: Calvin Johnson
 Supervisor/Company Phone No.: (619) 594-1284
 
 Duties and Responsibilities:
-    - Write code to improve existing Projected Hartree Fock (PHF) program
-    - Write scripts to test PHF program including:
-        - time profiling
-        - numerical analysis
-        - optimization
-        - accuracy
-
+    - Write code to improve existing super computing code
+    - Write scripts to test said code including:
+        * time profiling
+        * numerical analysis
+        * optimization
+        * accuracy
+        
 --------------------------------------------------------------------------------
 
 Employer:  San Diego State University Research Foundation
@@ -37,8 +37,8 @@ Supervisor's Name: Matt Anderson
 Supervisor/Company Phone No.: (619) 594-2468
 
 Duties and Responsibilities:
-    - Keep physics department announcements slideshow updated
-    - Create appealing graphics for said slideshow
+    - Create appealing and informative graphics for physics department
+      announcements
 
 --------------------------------------------------------------------------------
 
@@ -53,6 +53,7 @@ Supervisor's Name: Vito Mercado
 Supervisor/Company Phone No.: (408) 847-4857
 
 Duties and Responsibilities:
-    - Bag groceries for customers
-    - Carry groceries to customer's car
-    - Exhude constant happiness :)
+    - Provide exceptional customer service including:
+        * bagging groceries
+        * carrying groceries to customer's car
+        * exuding positive vibes :)
