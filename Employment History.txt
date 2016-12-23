@@ -1,63 +1,58 @@
 List all jobs held during the past ten years including breaks in employment
 lasting more than 90 days.
 
-Employer:  
-Job Title: 
+--------------------------------------------------------------------------------
 
-Start Date: 
-End Date:   
-Annual or Hourly Base Pay: 
+Employer:  San Diego State University Research Foundation
+Job Title: Research Assistant
+Comment:   Physics Senior Thesis
+           + Summer Research
 
-Supervisor's Name: 
-Supervisor/Company Phone No.: 
+Start Date: June, 2015
+End Date:   May, 2016
+Annual or Hourly Base Pay: $10/hr
+
+Supervisor's Name: Calvin Johnson
+Supervisor/Company Phone No.: (619) 594-1284
 
 Duties and Responsibilities:
-    - 
+    - Write code to improve existing Projected Hartree Fock (PHF) program
+    - Write scripts to test PHF program including:
+        - time profiling
+        - numerical analysis
+        - optimization
+        - accuracy
 
 --------------------------------------------------------------------------------
 
-Employer:  
-Job Title: 
+Employer:  San Diego State University Research Foundation
+Job Title: Graphic Design Artist
+Comment:   Cymer Sign
 
-Start Date: 
-End Date:   
-Annual or Hourly Base Pay: 
+Start Date: April, 2016
+End Date:   May, 2016
+Annual or Hourly Base Pay: $10/hr
 
-Supervisor's Name: 
-Supervisor/Company Phone No.: 
+Supervisor's Name: Matt Anderson
+Supervisor/Company Phone No.: (619) 594-2468
 
 Duties and Responsibilities:
-    - 
+    - Keep physics department announcements slideshow updated
+    - Create appealing graphics for said slideshow
 
 --------------------------------------------------------------------------------
 
-Employer:  
-Job Title: 
+Employer:  Nob Hill Foods
+Job Title: Courtesy Clerk
 
-Start Date: 
-End Date:   
-Annual or Hourly Base Pay: 
+Start Date: February, 2012
+End Date:   January, 2013
+Annual or Hourly Base Pay: $8.50
 
-Supervisor's Name: 
-Supervisor/Company Phone No.: 
-
-Duties and Responsibilities:
-    - 
-
---------------------------------------------------------------------------------
-
-Employer:  
-Job Title: 
-
-Start Date: 
-End Date:   
-Annual or Hourly Base Pay: 
-
-Supervisor's Name: 
-Supervisor/Company Phone No.: 
+Supervisor's Name: Vito Mercado
+Supervisor/Company Phone No.: (408) 847-4857
 
 Duties and Responsibilities:
-    - 
-
---------------------------------------------------------------------------------
-
+    - Bag groceries for customers
+    - Carry groceries to customer's car
+    - Exhude constant happiness :)
