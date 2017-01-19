@@ -29,7 +29,7 @@ Qualifications -----------------------------------------------------------------
 ====== Frameworks & Technologies ======
         Main - Visual Studio, Git, Unity, Microsoft Office, Windows
         Experienced - Linux, VirtualBox, Photoshop
-        Used in the past - Eclipse, ZeroBraneStudio (Lua IDE), LÖVE
+        Used in the past - Eclipse, ZeroBraneStudio (Lua IDE), LÖVE, InDesign
 
 ====== Projects  ======
 (https://github.com/kevin-d-omara unless noted)
