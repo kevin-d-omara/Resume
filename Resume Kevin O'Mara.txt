@@ -1,0 +1,48 @@
+Kevin O’Mara
+4985 Tierra Baja Way, San Diego, CA 92115
+(408) 840-9875
+kevin.d.omara@gmail.com
+https://github.com/kevin-d-omara 
+
+Education --------------------------------------------------------------------------
+
+2016 - Present
+        Master of Science – Computer Science
+        San Diego State University, CA
+        GPA: 3.88/4.00
+        Expected Graduation: December 2017
+
+2012 – 2016
+        Bachelor of Science – Physics
+        San Diego State University, CA
+        GPA: 3.68/4.00
+        Vice President of the Society of Physics Students
+        Physics tutor
+
+Qualifications ---------------------------------------------------------------------
+
+====== Languages ======
+        Main - C#
+        Experienced - Fortran, Bash, C
+        Used in the past - Java, C++, Lua, Python, SQL, Assembly, OpenMP
+
+====== Frameworks & Technologies ======
+        Main - Visual Studio, Git, Unity, Microsoft Office, Windows
+        Experienced - Linux, VirtualBox, Photoshop
+        Used in the past - Eclipse, ZeroBraneStudio (Lua IDE), LÖVE
+
+====== Projects  ======
+(https://github.com/kevin-d-omara unless noted)
+        --> Solo
+                - Dudes-in-a-Corridor (in progress) - wrote a ray marching algorithm for line of sight detection on a grid
+
+        --> Team
+                - Rocket Car - managed a team of 4 to create a 3D racing game
+                - Physics Senior Thesis - implemented matrix inversion to achieve 3x speedup of many-body Schrödinger approximation algorithm
+                - Huckster - lead an international team in creating the most popular fan-made hero for the board game Shadows of Brimstone
+                        * https://boardgamegeek.com/filepage/116086/new-hero-huckster
+
+====== Other ======
+        --> Oarsman for San Diego State Men’s Crew (2012-2014)
+                5:00 am practice, 5 days a week, 30+ hours/week training
+         --> Calisthenics (ongoing)
