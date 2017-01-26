@@ -24,13 +24,13 @@ Qualifications -----------------------------------------------------------------
 
 ====== Languages ======
         Main - C#
-        Experienced - Fortran, Bash, C
-        Used in the past - Java, C++, Lua, Python, SQL, Assembly, OpenMP
+        Experienced - Fortran, Bash, C, Lua
+        Used in the past - Java, C++, Python, SQL, Assembly, OpenMP
 
 ====== Frameworks & Technologies ======
         Main - Visual Studio, Git, Unity, Microsoft Office, Windows
-        Experienced - Linux, VirtualBox, Photoshop
-        Used in the past - Eclipse, ZeroBraneStudio (Lua IDE), LÖVE, InDesign
+        Experienced - Linux, VirtualBox, ZeroBraneStudio (Lua IDE), Photoshop
+        Used in the past - Eclipse, LÖVE, InDesign
 
 ====== Projects  ======
 (https://github.com/kevin-d-omara unless noted)
