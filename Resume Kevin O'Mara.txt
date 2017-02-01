@@ -5,46 +5,55 @@ kevin.d.omara@gmail.com
 https://github.com/kevin-d-omara 
 https://www.linkedin.com/in/kevin-d-omara
 
-Education --------------------------------------------------------------------------
-
-2016 - Present
-        Master of Science – Computer Science
+--------------------------------------------------------------------------------
+Education:
+        Master of Science – Computer Science  Expected Graduation: December 2017
         San Diego State University, CA
         GPA: 3.88/4.00
-        Expected Graduation: December 2017
 
-2012 – 2016
-        Bachelor of Science – Physics
+        Bachelor of Science – Physics                                   May 2016
         San Diego State University, CA
         GPA: 3.68/4.00
-        Vice President of the Society of Physics Students
-        Physics tutor
-        Outstanding Student (awarded by Department of Physics)
 
-Qualifications ---------------------------------------------------------------------
+Courses:
+        Software Engineering            | Data Structures
+        Programming Languages           | Algorithms & Analysis
+        Operating Systems               | Database Theory & Implementation
+        3D Game Programming             | Spatial Databases
+        Adv. 3D Game Programming        | Adv. Multimedia Networks
+        Modern Optics & Lasers (+Lab)
+        Methods of Applied Mathematics I & II
 
-====== Languages ======
-        Main - C#
-        Experienced - Fortran, Bash, C, Lua
-        Used in the past - Java, C++, Python, SQL, Assembly, OpenMP
+Skills:
+        Languages: C#, C, Fortran, Bash, Lua, Java, C++, Python, SQL+
+        Operating Systems: Windows, Linux (Ubuntu), Unix (Solaris)
+        IDE: Visual Studio, Eclipse, Atom, Notepad++, ZeroBrane Studio
+        Tools: Terminal, Git, GitHub, GitLab, Unity3D, LÖVE, Microsoft Office,
+               Photoshop, InDesign
 
-====== Frameworks & Technologies ======
-        Main - Visual Studio, Git, Unity, Microsoft Office, Windows
-        Experienced - Linux, VirtualBox, ZeroBraneStudio (Lua IDE), Photoshop
-        Used in the past - Eclipse, LÖVE, InDesign
+--------------------------------------------------------------------------------
+Projects: (https://github.com/kevin-d-omara unless noted):
+Solo:
+        Dudes-in-a-Corridor (in progress) – wrote a ray marching algorithm for
+        precise line of sight detection on a grid
+        
+        PongOut – a customizable hybrid between the classics Pong and Breakout,
+        with the added fun of powerups!
+Team:
+        Rocket Car – managed a team of 4 to create a 3D racing game
+        
+        Physics Senior Thesis – implemented matrix inversion to achieve 3x
+        speedup of many-body Schrödinger approximation algorithm
+        
+        Huckster – lead an international team in creating the most popular
+        fan-made hero for the board game Shadows of Brimstone
+        (https://boardgamegeek.com/filepage/116086/new-hero-huckster)
 
-====== Projects  ======
-(https://github.com/kevin-d-omara unless noted)
-        --> Solo
-                - Dudes-in-a-Corridor (in progress) - wrote a ray marching algorithm for line of sight detection on a grid
-
-        --> Team
-                - Rocket Car - managed a team of 4 to create a 3D racing game
-                - Physics Senior Thesis - implemented matrix inversion to achieve 3x speedup of many-body Schrödinger approximation algorithm
-                - Huckster - lead an international team in creating the most popular fan-made hero for the board game Shadows of Brimstone
-                        * https://boardgamegeek.com/filepage/116086/new-hero-huckster
-
-====== Other ======
-        --> Oarsman for San Diego State Men’s Crew (2012-2014)
-                5:00 am practice, 5 days a week, 30+ hours/week training
-         --> Calisthenics (ongoing)
+Awards & Affiliations:
+        Honorable Mention at Northrop Grumman Code-A-Thon, SDSU          11/2016
+        Magna Cum Laude Graduate, SDSU                                    5/2016
+        Dean’s List, SDSU                                        8/2012 - 5/2016
+        Outstanding Physics Student, SDSU                                 5/2016
+        Vice President, Society of Physics Students, SDSU        8/2015 - 5/2016
+        Oarsman, Men’s Crew, SDSU                                8/2012 - 5/2014
+        Most Improved Oarsman, SDSU                                       5/2013
