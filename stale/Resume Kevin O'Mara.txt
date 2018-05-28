@@ -1,5 +1,5 @@
 Kevin O’Mara
-4985 Tierra Baja Way, San Diego, CA 92115
+981 Hoesch Way, Gilroy, CA 95020
 (408) 840-9875
 kevin.d.omara@gmail.com
 https://github.com/kevin-d-omara 
@@ -7,9 +7,9 @@ https://www.linkedin.com/in/kevin-d-omara
 
 --------------------------------------------------------------------------------
 Education:
-        Master of Science – Computer Science  Expected Graduation: December 2017
+        Master of Science – Computer Science 					   December 2017
         San Diego State University, CA
-        GPA: 3.88/4.00
+        GPA: 3.66/4.00
 
         Bachelor of Science – Physics                                   May 2016
         San Diego State University, CA
